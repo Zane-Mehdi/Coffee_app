@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "375337528108",
+    "project_id": "zane-brew-crew",
+    "storage_bucket": "zane-brew-crew.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:375337528108:android:8661d06e70d05bc9559a89",
+        "android_client_info": {
+          "package_name": "com.zane.firebasetut"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "375337528108-hdh3edf8mnumhqp0na9lum3574jsiqm4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDkyEWkPNYstrfhyDaJdRNF_41GsfV9Kng"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "375337528108-hdh3edf8mnumhqp0na9lum3574jsiqm4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
